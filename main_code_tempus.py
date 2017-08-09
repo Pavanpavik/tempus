@@ -276,7 +276,7 @@ submenu=Menu(menu)
 menu.add_cascade(label="Calendar",menu=submenu)
 submenu.add_command(label="Create Event",command=eventcreation)
 submenu.add_command(label="Show Events",command=showevents)
-submenu.add_command(label="Show Calendar",command=showcalendar)
+#submenu.add_command(label="Show Calendar",command=showcalendar)
 submenu.add_command(label="Cricket score",command=cricketscore)
 #MAIN HEADING
 
