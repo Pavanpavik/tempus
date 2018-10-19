@@ -18,4 +18,4 @@ __1__ > add background-image1 and background-image2 locations(Local disk file lo
  
  
 
- Thank you!
+ Thank you.
