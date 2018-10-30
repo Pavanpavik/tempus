@@ -1,4 +1,4 @@
-# tempus
+# Tempus
 Event scheduler and reminder!
 
 --> This desktop-app TEMPUS is made with Python-tkinter and some other api's.
