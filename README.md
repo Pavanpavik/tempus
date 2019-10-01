@@ -1,5 +1,5 @@
 # tempus
-Event scheduler and reminder!
+Event scheduler and reminder !
 
 --> This desktop-app TEMPUS is made with Python-tkinter and some other api's.
 --> It is basically a event scheduler where you can set some task to do after a particular time.
